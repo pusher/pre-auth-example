@@ -43,3 +43,8 @@ pusher.preAuthenticate = function (channelName) {
     "&channel_name=" + channelName
   );
 };
+
+// example usage:
+// pusher.preAuthenticate("private-ch");
+// ...some other stuff happens...
+// pusher.subscribe("private-ch");
