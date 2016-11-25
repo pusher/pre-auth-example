@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hot-leaf-juice/presence-spy-example.git"
+    "url": "git+https://github.com/hot-leaf-juice/pre-auth-example.git"
   },
   "author": "",
   "license": "ISC",
